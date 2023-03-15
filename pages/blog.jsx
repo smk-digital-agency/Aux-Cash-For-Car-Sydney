@@ -152,7 +152,7 @@ function blog() {
   return (
     <Container>
         <Box width={'100%'} overflow ={'Hidden'}>
-            <Typography variant='h4' component={"h1"} sx ={{mt: "10px", color: "primary.main"}} >Bolgs</Typography>
+            <Typography variant='h4' component={"h1"} sx ={{mt: "10px", color: "primary.main"}} >Blogs</Typography>
             {/* blog right */}
                 <Grid container sx={{gap: "40px", mt: "10px"}}>
 
